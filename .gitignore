@@ -22,8 +22,3 @@ dist
 
 # pages config
 pages.json
-
-
-/src/alicloud/releases.json
-/src/alicloud/dev.json
-/src/alicloud/services
