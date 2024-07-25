@@ -125,7 +125,7 @@ function handleEditClick(e) {
         >
           {{ statisticsData.happyTotal - statisticsData.sadTotal }}
         </span>
-        <span class="text-sm">(收支差)</span>
+        <span class="text-sm">({{statisticsData.happyTotal >= statisticsData.sadTotal ? '欠他' : '欠我'}})</span>
       </div>
       <div class="grid grid-cols-2 gap-5 divide-x">
         <div class="text-center">

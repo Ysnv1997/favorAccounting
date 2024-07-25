@@ -1,7 +1,7 @@
 <template>
     <div class="mt-5">
         <div class="indent-8 leading-relaxed text-sm">
-            人情往来账本 是用的开源项目构建而成，本程序完全免费，小程序内存在广告，广告所带来的收益仅用于服务器续费。
+            人情往来账本，本程序完全免费，小程序内存在广告，广告所带来的收益仅用于服务器续费。
         </div>
         <div class="indent-8 leading-relaxed text-sm">
             为了维持人情往来账本的健康运营，部分页面中增加了广告，敬请理解，当然，如果你对广告容忍度很低，可以在<text class="text-red"
@@ -16,7 +16,7 @@
         </div>
     </div>
     <div class="mt-auto">
-        <ad unit-id="adunit-45fd166651f430ec" ad-type="video" ad-theme="white"></ad>
+        <ad unit-id="广告id" ad-type="video" ad-theme="white"></ad>
     </div>
 </template>
 
